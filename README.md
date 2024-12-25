@@ -1,6 +1,5 @@
 # ArchLock
 
-The complete implementation will be released soon (The core code has been provided.)
 
 
 
